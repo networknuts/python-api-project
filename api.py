@@ -1,4 +1,4 @@
-usrename = input("Enter your username: ")
+username = input("Enter your username: ")
 userid = input("Enter your userid: ")
 
 print(username)
